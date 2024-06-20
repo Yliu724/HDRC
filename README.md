@@ -6,7 +6,7 @@
 
 <sup>1</sup>City University of Hong Kong, <sup>2</sup>Tongji University, <sup>3</sup>Lingnan Univerity
 
-This repository provides the source dataset for the paper “HDRC: A Subjective Quality Assessment Database for Compressed High Dynamic Range Image”, IJMLC.[[Paper](https://link.springer.com/article/10.1007/s13042-024-02151-1)] 
+This repository provides the source dataset for the paper “HDRC: A Subjective Quality Assessment Database for Compressed High Dynamic Range Image”, IJMLC. [[Paper](https://link.springer.com/article/10.1007/s13042-024-02151-1)] 
 
 ## About HDRC
 
