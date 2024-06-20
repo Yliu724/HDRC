@@ -1,6 +1,6 @@
-# HDRC: A Subjective Quality Assessment Database for Compressed High Dynamic Range Image [[Paper](https://link.springer.com/article/10.1007/s13042-024-02151-1)] 
+# HDRC: A Subjective Quality Assessment Database for Compressed High Dynamic Range Image 
 
-**International Journal of Machine Learning and Cybernetics**
+**International Journal of Machine Learning and Cybernetics** [[Paper](https://link.springer.com/article/10.1007/s13042-024-02151-1)] 
 
 [Yue Liu](https://scholar.google.com.tw/citations?user=w6vLxPkAAAAJ&hl=zh-CN)<sup>1</sup>, [Zhangkai Ni](https://eezkni.github.io/)<sup>2</sup>, Peilin Chen<sup>1</sup>, [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/)<sup>1</sup>, [Sam Kwong](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN&oi=sra)<sup>3</sup>
 
