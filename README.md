@@ -19,7 +19,12 @@ Evaluating the quality of high dynamic range (HDR) images has emerged as a chall
 
 
 ### Experimental Results
+Performance evaluation of the state-of-the-art IQA metrics in terms of SROCC on the JPEG-XT compression distortion type in the proposed
+HDRC database:
 <div align=center><img src="./imgs/JPEG-XT.png" width = "100%" height = "100%" /></div>
+
+Performance evaluation of the state-of-the-art IQA metrics in terms of SROCC on the VVC compression distortion type in the proposed
+HDRC database:
 <div align=center><img src="./imgs/VVC.png" width = "100%" height = "100%" /></div>
 
 ## HDRC dataset
