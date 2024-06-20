@@ -1,4 +1,4 @@
-# HDRC: A Subjective Quality Assessment Database for Compressed High Dynamic Range Image
+# HDRC: A Subjective Quality Assessment Database for Compressed High Dynamic Range Image [[Paper](https://link.springer.com/article/10.1007/s13042-024-02151-1)] 
 
 **International Journal of Machine Learning and Cybernetics**
 
